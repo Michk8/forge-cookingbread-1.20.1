@@ -53,7 +53,54 @@ public class CookingBread
     {
         if(event.getTabKey() == CreativeModeTabs.FOOD_AND_DRINKS) {
             event.accept(ModItems.DOUGH_BREAD);
-            event.accept(ModItems.TESTSANDWITCH);
+
+            event.accept(ModItems.SANDWICH_CHICKEN);
+            event.accept(ModItems.SANDWICH_CHORUS_FRUIT);
+            event.accept(ModItems.SANDWICH_COD);
+            event.accept(ModItems.SANDWICH_COOKED_BEEF);
+            event.accept(ModItems.SANDWICH_COOKED_CHICKEN);
+            event.accept(ModItems.SANDWICH_COOKED_COD);
+            event.accept(ModItems.SANDWICH_COOKED_MUTTON);
+            event.accept(ModItems.SANDWICH_COOKED_PORKCHOP);
+            event.accept(ModItems.SANDWICH_COOKED_RABBIT);
+            event.accept(ModItems.SANDWICH_COOKED_SALMON);
+            event.accept(ModItems.SANDWICH_COOKIE);
+            event.accept(ModItems.SANDWICH_DRIED_KELP);
+            event.accept(ModItems.SANDWICH_ENCHANTED_GOLDEN_APPLE);
+            event.accept(ModItems.SANDWICH_GOLDEN_APPLE);
+            event.accept(ModItems.SANDWICH_GOLDEN_CARROT);
+            event.accept(ModItems.SANDWICH_HONEY);
+            event.accept(ModItems.SANDWICH_MELON_SLICE);
+            event.accept(ModItems.SANDWICH_MUTTON);
+            event.accept(ModItems.SANDWICH_POISONOUS_POTATO);
+            event.accept(ModItems.SANDWICH_PORKCHOP);
+            event.accept(ModItems.SANDWICH_POTATO);
+            event.accept(ModItems.SANDWICH_PUFFERFISH);
+            event.accept(ModItems.SANDWICH_PUMPKIN_PIE);
+            event.accept(ModItems.SANDWICH_RABBIT);
+            event.accept(ModItems.SANDWICH_ROTTEN_FLESH);
+            event.accept(ModItems.SANDWICH_SALMON);
+            event.accept(ModItems.SANDWICH_SPIDER_EYE);
+            event.accept(ModItems.SANDWICH_SWEET_BERRIES);
+            event.accept(ModItems.SANDWICH_GLOW_BERRIES);
+            event.accept(ModItems.SANDWICH_TROPICAL_FISH);
+            event.accept(ModItems.SANDWICH_CARROT);
+            event.accept(ModItems.SANDWICH_BEETROOT);
+            event.accept(ModItems.SANDWICH_BEEF);
+            event.accept(ModItems.SANDWICH_BAKED_POTATO);
+            event.accept(ModItems.SANDWICH_APPLE);
+            event.accept(ModItems.SANDWICH_EGGS);
+
+            event.accept(ModItems.COOKED_SANDWICH_BEEF);
+            event.accept(ModItems.COOKED_SANDWICH_COD);
+            event.accept(ModItems.COOKED_SANDWICH_CHICKEN);
+            event.accept(ModItems.COOKED_SANDWICH_MUTTON);
+            event.accept(ModItems.COOKED_SANDWICH_PORKCHOP);
+            event.accept(ModItems.COOKED_SANDWICH_RABBIT);
+            event.accept(ModItems.COOKED_SANDWICH_SALMON);
+            event.accept(ModItems.COOKED_SANDWICH_POTATO);
+
+
         }
     }
 

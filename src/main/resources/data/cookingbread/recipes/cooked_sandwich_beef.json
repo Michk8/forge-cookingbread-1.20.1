@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "cookingbread:sandwich_beef"
+  },
+  "result": "cookingbread:cooked_sandwich_beef"
+}

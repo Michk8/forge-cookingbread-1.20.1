@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "cookingbread:item/bread_dough"
+    "layer0": "cookingbread:item/sandwich_beef"
   }
 }

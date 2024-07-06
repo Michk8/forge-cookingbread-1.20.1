@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cookingbread:item/grilled_sandwich_chicken"
+  }
+}

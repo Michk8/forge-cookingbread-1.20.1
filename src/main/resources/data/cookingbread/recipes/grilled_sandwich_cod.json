@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "cookingbread:sandwich_cod"
+  },
+  "result": "cookingbread:grilled_sandwich_cod"
+}

@@ -38,14 +38,14 @@
   "item.cookingbread.sandwich_apple": "Sandwich à la pomme",
   "item.cookingbread.sandwich_eggs": "Sandwich aux œufs",
 
-  "item.cookingbread.cooked_sandwich_beef": "Sandwich cuit au bœuf",
-  "item.cookingbread.cooked_sandwich_chicken": "Sandwich cuit au poulet",
-  "item.cookingbread.cooked_sandwich_cod": "Sandwich cuit à la morue",
-  "item.cookingbread.cooked_sandwich_mutton": "Sandwich cuit au mouton",
-  "item.cookingbread.cooked_sandwich_porkchop": "Sandwich cuit à la côtelette de porc",
-  "item.cookingbread.cooked_sandwich_rabbit": "Sandwich cuit au lapin",
-  "item.cookingbread.cooked_sandwich_salmon": "Sandwich cuit au saumon",
-  "item.cookingbread.cooked_sandwich_potato": "Sandwich cuit à la pomme de terre",
+  "item.cookingbread.grilled_sandwich_beef": "Sandwich cuit au bœuf",
+  "item.cookingbread.grilled_sandwich_chicken": "Sandwich cuit au poulet",
+  "item.cookingbread.grilled_sandwich_cod": "Sandwich cuit à la morue",
+  "item.cookingbread.grilled_sandwich_mutton": "Sandwich cuit au mouton",
+  "item.cookingbread.grilled_sandwich_porkchop": "Sandwich cuit à la côtelette de porc",
+  "item.cookingbread.grilled_sandwich_rabbit": "Sandwich cuit au lapin",
+  "item.cookingbread.grilled_sandwich_salmon": "Sandwich cuit au saumon",
+  "item.cookingbread.grilled_sandwich_potato": "Sandwich cuit à la pomme de terre",
 
   "creativetab.cookingbread_tab": "Onglet Cuisine de Pain"
 }

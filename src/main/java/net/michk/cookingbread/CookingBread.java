@@ -10,9 +10,7 @@ import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
 import net.minecraftforge.event.server.ServerStartingEvent;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
-import net.minecraftforge.fml.ModLoadingContext;
 import net.minecraftforge.fml.common.Mod;
-import net.minecraftforge.fml.config.ModConfig;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
@@ -91,14 +89,14 @@ public class CookingBread
             event.accept(ModItems.SANDWICH_APPLE);
             event.accept(ModItems.SANDWICH_EGGS);
 
-            event.accept(ModItems.COOKED_SANDWICH_BEEF);
-            event.accept(ModItems.COOKED_SANDWICH_COD);
-            event.accept(ModItems.COOKED_SANDWICH_CHICKEN);
-            event.accept(ModItems.COOKED_SANDWICH_MUTTON);
-            event.accept(ModItems.COOKED_SANDWICH_PORKCHOP);
-            event.accept(ModItems.COOKED_SANDWICH_RABBIT);
-            event.accept(ModItems.COOKED_SANDWICH_SALMON);
-            event.accept(ModItems.COOKED_SANDWICH_POTATO);
+            event.accept(ModItems.GRILLED_SANDWICH_BEEF);
+            event.accept(ModItems.GRILLED_SANDWICH_COD);
+            event.accept(ModItems.GRILLED_SANDWICH_CHICKEN);
+            event.accept(ModItems.GRILLED_SANDWICH_MUTTON);
+            event.accept(ModItems.GRILLED_SANDWICH_PORKCHOP);
+            event.accept(ModItems.GRILLED_SANDWICH_RABBIT);
+            event.accept(ModItems.GRILLED_SANDWICH_SALMON);
+            event.accept(ModItems.GRILLED_SANDWICH_POTATO);
 
 
         }

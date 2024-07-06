@@ -40,16 +40,17 @@ public class ModFoods {
     public static final FoodProperties SANDWICH_BEEF = (new FoodProperties.Builder()).nutrition(8).saturationMod(0.6F).build();
     public static final FoodProperties SANDWICH_BAKED_POTATO = (new FoodProperties.Builder()).nutrition(10).saturationMod(0.6F).build();
     public static final FoodProperties SANDWICH_APPLE = (new FoodProperties.Builder()).nutrition(9).saturationMod(0.6F).build();
-
-    public static final FoodProperties COOKED_SANDWICH_BEEF = (new FoodProperties.Builder()).nutrition(15).saturationMod(0.6F).build();
-    public static final FoodProperties COOKED_SANDWICH_CHICKEN = (new FoodProperties.Builder()).nutrition(13).saturationMod(0.6F).build();
-    public static final FoodProperties COOKED_SANDWICH_COD = (new FoodProperties.Builder()).nutrition(12).saturationMod(0.6F).build();
-    public static final FoodProperties COOKED_SANDWICH_MUTTON = (new FoodProperties.Builder()).nutrition(13).saturationMod(0.6F).build();
-    public static final FoodProperties COOKED_SANDWICH_PORKCHOP = (new FoodProperties.Builder()).nutrition(15).saturationMod(0.6F).build();
-    public static final FoodProperties COOKED_SANDWICH_RABBIT = (new FoodProperties.Builder()).nutrition(12).saturationMod(0.6F).build();
-    public static final FoodProperties COOKED_SANDWICH_SALMON = (new FoodProperties.Builder()).nutrition(13).saturationMod(0.6F).build();
-    public static final FoodProperties COOKED_SANDWICH_POTATO = (new FoodProperties.Builder()).nutrition(12).saturationMod(0.6F).build();
     public static final FoodProperties SANDWICH_EGGS =  (new FoodProperties.Builder()).nutrition(8).saturationMod(0.6F).build();
+
+
+    public static final FoodProperties GRILLED_SANDWICH_BEEF = (new FoodProperties.Builder()).nutrition(15).saturationMod(0.6F).build();
+    public static final FoodProperties GRILLED_SANDWICH_CHICKEN = (new FoodProperties.Builder()).nutrition(13).saturationMod(0.6F).build();
+    public static final FoodProperties GRILLED_SANDWICH_COD = (new FoodProperties.Builder()).nutrition(12).saturationMod(0.6F).build();
+    public static final FoodProperties GRILLED_SANDWICH_MUTTON = (new FoodProperties.Builder()).nutrition(13).saturationMod(0.6F).build();
+    public static final FoodProperties GRILLED_SANDWICH_PORKCHOP = (new FoodProperties.Builder()).nutrition(15).saturationMod(0.6F).build();
+    public static final FoodProperties GRILLED_SANDWICH_RABBIT = (new FoodProperties.Builder()).nutrition(12).saturationMod(0.6F).build();
+    public static final FoodProperties GRILLED_SANDWICH_SALMON = (new FoodProperties.Builder()).nutrition(13).saturationMod(0.6F).build();
+    public static final FoodProperties GRILLED_SANDWICH_POTATO = (new FoodProperties.Builder()).nutrition(12).saturationMod(0.6F).build();
 
 
 

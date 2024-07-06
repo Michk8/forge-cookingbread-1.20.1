@@ -17,7 +17,7 @@
   "item.cookingbread.sandwich_golden_apple": "Sandwich with golden apple",
   "item.cookingbread.sandwich_golden_carrot": "Sandwich with golden carrot",
   "item.cookingbread.sandwich_honey": "Sandwich with honey",
-  "item.cookingbread.sandwich_melon_slice": "Sandwich with melon slice",
+  "item.cookingbread.sandwich_melon_slice": "Sandwich with melon",
   "item.cookingbread.sandwich_mutton": "Sandwich with mutton",
   "item.cookingbread.sandwich_poisonous_potato": "Sandwich with poisonous potato",
   "item.cookingbread.sandwich_porkchop": "Sandwich with porkchop",
@@ -38,14 +38,14 @@
   "item.cookingbread.sandwich_apple": "Sandwich with apple",
   "item.cookingbread.sandwich_eggs": "Sandwich with eggs",
 
-  "item.cookingbread.cooked_sandwich_beef": "Cooked sandwich with beef",
-  "item.cookingbread.cooked_sandwich_chicken": "Cooked sandwich with chicken",
-  "item.cookingbread.cooked_sandwich_cod": "Cooked sandwich with cod",
-  "item.cookingbread.cooked_sandwich_mutton": "Cooked sandwich with mutton",
-  "item.cookingbread.cooked_sandwich_porkchop": "Cooked sandwich with porkchop",
-  "item.cookingbread.cooked_sandwich_rabbit": "Cooked sandwich with rabbit",
-  "item.cookingbread.cooked_sandwich_salmon": "Cooked sandwich with salmon",
-  "item.cookingbread.cooked_sandwich_potato": "Cooked sandwich with potato",
+  "item.cookingbread.grilled_sandwich_beef": "Grilled sandwich with beef",
+  "item.cookingbread.grilled_sandwich_chicken": "Grilled sandwich with chicken",
+  "item.cookingbread.grilled_sandwich_cod": "Grilled sandwich with cod",
+  "item.cookingbread.grilled_sandwich_mutton": "Grilled sandwich with mutton",
+  "item.cookingbread.grilled_sandwich_porkchop": "Grilled sandwich with porkchop",
+  "item.cookingbread.grilled_sandwich_rabbit": "Grilled sandwich with rabbit",
+  "item.cookingbread.grilled_sandwich_salmon": "Grilled sandwich with salmon",
+  "item.cookingbread.grilled_sandwich_potato": "Grilled sandwich with potato",
 
 
 

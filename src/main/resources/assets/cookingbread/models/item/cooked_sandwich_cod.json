@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "cookingbread:item/cooked_sandwich_cod"
-  }
-}

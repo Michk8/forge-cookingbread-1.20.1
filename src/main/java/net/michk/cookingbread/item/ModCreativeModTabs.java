@@ -59,14 +59,14 @@ public class ModCreativeModTabs {
                         output.accept(ModItems.SANDWICH_APPLE.get());
                         output.accept(ModItems.SANDWICH_EGGS.get());
 
-                        output.accept(ModItems.COOKED_SANDWICH_BEEF.get());
-                        output.accept(ModItems.COOKED_SANDWICH_CHICKEN.get());
-                        output.accept(ModItems.COOKED_SANDWICH_COD.get());
-                        output.accept(ModItems.COOKED_SANDWICH_MUTTON.get());
-                        output.accept(ModItems.COOKED_SANDWICH_PORKCHOP.get());
-                        output.accept(ModItems.COOKED_SANDWICH_RABBIT.get());
-                        output.accept(ModItems.COOKED_SANDWICH_SALMON.get());
-                        output.accept(ModItems.COOKED_SANDWICH_POTATO.get());
+                        output.accept(ModItems.GRILLED_SANDWICH_BEEF.get());
+                        output.accept(ModItems.GRILLED_SANDWICH_CHICKEN.get());
+                        output.accept(ModItems.GRILLED_SANDWICH_COD.get());
+                        output.accept(ModItems.GRILLED_SANDWICH_MUTTON.get());
+                        output.accept(ModItems.GRILLED_SANDWICH_PORKCHOP.get());
+                        output.accept(ModItems.GRILLED_SANDWICH_RABBIT.get());
+                        output.accept(ModItems.GRILLED_SANDWICH_SALMON.get());
+                        output.accept(ModItems.GRILLED_SANDWICH_POTATO.get());
 
                     })
                     .build());

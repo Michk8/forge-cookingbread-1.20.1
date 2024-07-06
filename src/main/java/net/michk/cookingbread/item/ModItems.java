@@ -2,7 +2,6 @@ package net.michk.cookingbread.item;
 
 import net.michk.cookingbread.CookingBread;
 import net.minecraft.world.item.Item;
-import net.minecraft.world.item.Items;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
@@ -86,26 +85,26 @@ public class ModItems {
             () -> new Item(new Item.Properties().food(ModFoods.SANDWICH_BAKED_POTATO)));
     public static final RegistryObject<Item> SANDWICH_APPLE = ITEMS.register("sandwich_apple",
             () -> new Item(new Item.Properties().food(ModFoods.SANDWICH_APPLE)));
-
-
-    public static final RegistryObject<Item> COOKED_SANDWICH_BEEF = ITEMS.register("cooked_sandwich_beef",
-            () -> new Item(new Item.Properties().food(ModFoods.COOKED_SANDWICH_BEEF)));
-    public static final RegistryObject<Item> COOKED_SANDWICH_CHICKEN = ITEMS.register("cooked_sandwich_chicken",
-            () -> new Item(new Item.Properties().food(ModFoods.COOKED_SANDWICH_CHICKEN)));
-    public static final RegistryObject<Item> COOKED_SANDWICH_COD = ITEMS.register("cooked_sandwich_cod",
-            () -> new Item(new Item.Properties().food(ModFoods.COOKED_SANDWICH_COD)));
-    public static final RegistryObject<Item> COOKED_SANDWICH_MUTTON = ITEMS.register("cooked_sandwich_mutton",
-            () -> new Item(new Item.Properties().food(ModFoods.COOKED_SANDWICH_MUTTON)));
-    public static final RegistryObject<Item> COOKED_SANDWICH_PORKCHOP = ITEMS.register("cooked_sandwich_porkchop",
-            () -> new Item(new Item.Properties().food(ModFoods.COOKED_SANDWICH_PORKCHOP)));
-    public static final RegistryObject<Item> COOKED_SANDWICH_RABBIT = ITEMS.register("cooked_sandwich_rabbit",
-            () -> new Item(new Item.Properties().food(ModFoods.COOKED_SANDWICH_RABBIT)));
-    public static final RegistryObject<Item> COOKED_SANDWICH_SALMON = ITEMS.register("cooked_sandwich_salmon",
-            () -> new Item(new Item.Properties().food(ModFoods.COOKED_SANDWICH_SALMON)));
-    public static final RegistryObject<Item> COOKED_SANDWICH_POTATO = ITEMS.register("cooked_sandwich_potato",
-            () -> new Item(new Item.Properties().food(ModFoods.COOKED_SANDWICH_POTATO)));
     public static final RegistryObject<Item> SANDWICH_EGGS = ITEMS.register("sandwich_eggs",
             () -> new Item(new Item.Properties().food(ModFoods.SANDWICH_EGGS)));
+
+
+    public static final RegistryObject<Item> GRILLED_SANDWICH_BEEF = ITEMS.register("grilled_sandwich_beef",
+            () -> new Item(new Item.Properties().food(ModFoods.GRILLED_SANDWICH_BEEF)));
+    public static final RegistryObject<Item> GRILLED_SANDWICH_CHICKEN = ITEMS.register("grilled_sandwich_chicken",
+            () -> new Item(new Item.Properties().food(ModFoods.GRILLED_SANDWICH_CHICKEN)));
+    public static final RegistryObject<Item> GRILLED_SANDWICH_COD = ITEMS.register("grilled_sandwich_cod",
+            () -> new Item(new Item.Properties().food(ModFoods.GRILLED_SANDWICH_COD)));
+    public static final RegistryObject<Item> GRILLED_SANDWICH_MUTTON = ITEMS.register("grilled_sandwich_mutton",
+            () -> new Item(new Item.Properties().food(ModFoods.GRILLED_SANDWICH_MUTTON)));
+    public static final RegistryObject<Item> GRILLED_SANDWICH_PORKCHOP = ITEMS.register("grilled_sandwich_porkchop",
+            () -> new Item(new Item.Properties().food(ModFoods.GRILLED_SANDWICH_PORKCHOP)));
+    public static final RegistryObject<Item> GRILLED_SANDWICH_RABBIT = ITEMS.register("grilled_sandwich_rabbit",
+            () -> new Item(new Item.Properties().food(ModFoods.GRILLED_SANDWICH_RABBIT)));
+    public static final RegistryObject<Item> GRILLED_SANDWICH_SALMON = ITEMS.register("grilled_sandwich_salmon",
+            () -> new Item(new Item.Properties().food(ModFoods.GRILLED_SANDWICH_SALMON)));
+    public static final RegistryObject<Item> GRILLED_SANDWICH_POTATO = ITEMS.register("grilled_sandwich_potato",
+            () -> new Item(new Item.Properties().food(ModFoods.GRILLED_SANDWICH_POTATO)));
 
 
 

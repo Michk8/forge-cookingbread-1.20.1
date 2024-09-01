@@ -68,6 +68,48 @@ public class ModCreativeModTabs {
                         output.accept(ModItems.GRILLED_SANDWICH_SALMON.get());
                         output.accept(ModItems.GRILLED_SANDWICH_POTATO.get());
 
+
+                        output.accept(ModItems.DOUGH_BREAD_ROLL.get());
+                        output.accept(ModItems.BREAD_ROLL.get());
+
+                        output.accept(ModItems.BREAD_ROLL_APPLE.get());
+                        output.accept(ModItems.BREAD_ROLL_CHORUS_FRUIT.get());
+                        output.accept(ModItems.BREAD_ROLL_COD.get());
+                        output.accept(ModItems.BREAD_ROLL_COOKED_BEEF.get());
+                        output.accept(ModItems.BREAD_ROLL_COOKED_CHICKEN.get());
+                        output.accept(ModItems.BREAD_ROLL_COOKED_COD.get());
+                        output.accept(ModItems.BREAD_ROLL_COOKED_MUTTON.get());
+                        output.accept(ModItems.BREAD_ROLL_COOKED_PORKCHOP.get());
+                        output.accept(ModItems.BREAD_ROLL_COOKED_RABBIT.get());
+                        output.accept(ModItems.BREAD_ROLL_COOKED_SALMON.get());
+                        output.accept(ModItems.BREAD_ROLL_COOKIE.get());
+                        output.accept(ModItems.BREAD_ROLL_DRIED_KELP.get());
+                        output.accept(ModItems.BREAD_ROLL_ENCHANTED_GOLDEN_APPLE.get());
+                        output.accept(ModItems.BREAD_ROLL_GOLDEN_APPLE.get());
+                        output.accept(ModItems.BREAD_ROLL_GOLDEN_CARROT.get());
+                        output.accept(ModItems.BREAD_ROLL_HONEY.get());
+                        output.accept(ModItems.BREAD_ROLL_MELON_SLICE.get());
+                        output.accept(ModItems.BREAD_ROLL_MUTTON.get());
+                        output.accept(ModItems.BREAD_ROLL_POISONOUS_POTATO.get());
+                        output.accept(ModItems.BREAD_ROLL_PORKCHOP.get());
+                        output.accept(ModItems.BREAD_ROLL_POTATO.get());
+                        output.accept(ModItems.BREAD_ROLL_PUFFERFISH.get());
+                        output.accept(ModItems.BREAD_ROLL_PUMPKIN_PIE.get());
+                        output.accept(ModItems.BREAD_ROLL_RABBIT.get());
+                        output.accept(ModItems.BREAD_ROLL_ROTTEN_FLESH.get());
+                        output.accept(ModItems.BREAD_ROLL_SALMON.get());
+                        output.accept(ModItems.BREAD_ROLL_SPIDER_EYE.get());
+                        output.accept(ModItems.BREAD_ROLL_SWEET_BERRIES.get());
+                        output.accept(ModItems.BREAD_ROLL_GLOW_BERRIES.get());
+                        output.accept(ModItems.BREAD_ROLL_TROPICAL_FISH.get());
+                        output.accept(ModItems.BREAD_ROLL_CARROT.get());
+                        output.accept(ModItems.BREAD_ROLL_BEETROOT.get());
+                        output.accept(ModItems.BREAD_ROLL_BEEF.get());
+                        output.accept(ModItems.BREAD_ROLL_BAKED_POTATO.get());
+                        output.accept(ModItems.BREAD_ROLL_APPLE.get());
+                        output.accept(ModItems.BREAD_ROLL_EGGS.get());
+
+
                     })
                     .build());
 

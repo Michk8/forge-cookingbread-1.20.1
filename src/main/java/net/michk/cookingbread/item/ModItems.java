@@ -108,6 +108,87 @@ public class ModItems {
 
 
 
+
+    public static final RegistryObject<Item> DOUGH_BREAD_ROLL = ITEMS.register("dough_bread_roll",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> BREAD_ROLL = ITEMS.register("bread_roll",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL)));
+
+    public static final RegistryObject<Item> BREAD_ROLL_CHICKEN = ITEMS.register("bread_roll_chicken",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_CHICKEN)));
+    public static final RegistryObject<Item> BREAD_ROLL_CHORUS_FRUIT = ITEMS.register("bread_roll_chorus_fruit",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_CHORUS_FRUIT)));
+    public static final RegistryObject<Item> BREAD_ROLL_COD = ITEMS.register("bread_roll_cod",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_COD)));
+    public static final RegistryObject<Item> BREAD_ROLL_COOKED_BEEF = ITEMS.register("bread_roll_cooked_beef",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_COOKED_BEEF)));
+    public static final RegistryObject<Item> BREAD_ROLL_COOKED_CHICKEN = ITEMS.register("bread_roll_cooked_chicken",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_COOKED_CHICKEN)));
+    public static final RegistryObject<Item> BREAD_ROLL_COOKED_COD = ITEMS.register("bread_roll_cooked_cod",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_COOKED_COD)));
+    public static final RegistryObject<Item> BREAD_ROLL_COOKED_MUTTON = ITEMS.register("bread_roll_cooked_mutton",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_COOKED_MUTTON)));
+    public static final RegistryObject<Item> BREAD_ROLL_COOKED_PORKCHOP = ITEMS.register("bread_roll_cooked_porkchop",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_COOKED_PORKCHOP)));
+    public static final RegistryObject<Item> BREAD_ROLL_COOKED_RABBIT = ITEMS.register("bread_roll_cooked_rabbit",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_COOKED_RABBIT)));
+    public static final RegistryObject<Item> BREAD_ROLL_COOKED_SALMON = ITEMS.register("bread_roll_cooked_salmon",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_COOKED_SALMON)));
+    public static final RegistryObject<Item> BREAD_ROLL_COOKIE = ITEMS.register("bread_roll_cookie",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_COOKIE)));
+    public static final RegistryObject<Item> BREAD_ROLL_DRIED_KELP = ITEMS.register("bread_roll_dried_kelp",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_DRIED_KELP)));
+    public static final RegistryObject<Item> BREAD_ROLL_ENCHANTED_GOLDEN_APPLE = ITEMS.register("bread_roll_enchanted_golden_apple",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_ENCHANTED_GOLDEN_APPLE)));
+    public static final RegistryObject<Item> BREAD_ROLL_GOLDEN_APPLE = ITEMS.register("bread_roll_golden_apple",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_GOLDEN_APPLE)));
+    public static final RegistryObject<Item> BREAD_ROLL_GOLDEN_CARROT = ITEMS.register("bread_roll_golden_carrot",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_GOLDEN_CARROT)));
+    public static final RegistryObject<Item> BREAD_ROLL_HONEY = ITEMS.register("bread_roll_honey",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_HONEY)));
+    public static final RegistryObject<Item> BREAD_ROLL_MELON_SLICE = ITEMS.register("bread_roll_melon_slice",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_MELON_SLICE)));
+    public static final RegistryObject<Item> BREAD_ROLL_MUTTON = ITEMS.register("bread_roll_mutton",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_MUTTON)));
+    public static final RegistryObject<Item> BREAD_ROLL_POISONOUS_POTATO = ITEMS.register("bread_roll_poisonous_potato",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_POISONOUS_POTATO)));
+    public static final RegistryObject<Item> BREAD_ROLL_PORKCHOP = ITEMS.register("bread_roll_porkchop",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_PORKCHOP)));
+    public static final RegistryObject<Item> BREAD_ROLL_POTATO = ITEMS.register("bread_roll_potato",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_POTATO)));
+    public static final RegistryObject<Item> BREAD_ROLL_PUFFERFISH = ITEMS.register("bread_roll_pufferfish",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_PUFFERFISH)));
+    public static final RegistryObject<Item> BREAD_ROLL_PUMPKIN_PIE = ITEMS.register("bread_roll_pumpkin_pie",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_PUMPKIN_PIE)));
+    public static final RegistryObject<Item> BREAD_ROLL_RABBIT = ITEMS.register("bread_roll_rabbit",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_RABBIT)));
+    public static final RegistryObject<Item> BREAD_ROLL_ROTTEN_FLESH = ITEMS.register("bread_roll_rotten_flesh",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_ROTTEN_FLESH)));
+    public static final RegistryObject<Item> BREAD_ROLL_SALMON = ITEMS.register("bread_roll_salmon",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_SALMON)));
+    public static final RegistryObject<Item> BREAD_ROLL_SPIDER_EYE = ITEMS.register("bread_roll_spider_eye",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_SPIDER_EYE)));
+    public static final RegistryObject<Item> BREAD_ROLL_SWEET_BERRIES = ITEMS.register("bread_roll_sweet_berries",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_SWEET_BERRIES)));
+    public static final RegistryObject<Item> BREAD_ROLL_GLOW_BERRIES = ITEMS.register("bread_roll_glow_berries",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_GLOW_BERRIES)));
+    public static final RegistryObject<Item> BREAD_ROLL_TROPICAL_FISH = ITEMS.register("bread_roll_tropical_fish",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_TROPICAL_FISH)));
+    public static final RegistryObject<Item> BREAD_ROLL_CARROT = ITEMS.register("bread_roll_carrot",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_CARROT)));
+    public static final RegistryObject<Item> BREAD_ROLL_BEETROOT = ITEMS.register("bread_roll_beetroot",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_BEETROOT)));
+    public static final RegistryObject<Item> BREAD_ROLL_BEEF = ITEMS.register("bread_roll_beef",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_BEEF)));
+    public static final RegistryObject<Item> BREAD_ROLL_BAKED_POTATO = ITEMS.register("bread_roll_baked_potato",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_BAKED_POTATO)));
+    public static final RegistryObject<Item> BREAD_ROLL_APPLE = ITEMS.register("bread_roll_apple",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_APPLE)));
+    public static final RegistryObject<Item> BREAD_ROLL_EGGS = ITEMS.register("bread_roll_eggs",
+            () -> new Item(new Item.Properties().food(ModFoods.BREAD_ROLL_EGGS)));
+
+
+
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }

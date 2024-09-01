@@ -99,6 +99,46 @@ public class CookingBread
             event.accept(ModItems.GRILLED_SANDWICH_POTATO);
 
 
+            event.accept(ModItems.DOUGH_BREAD_ROLL);
+            event.accept(ModItems.BREAD_ROLL);
+            event.accept(ModItems.BREAD_ROLL_CHICKEN);
+            event.accept(ModItems.BREAD_ROLL_CHORUS_FRUIT);
+            event.accept(ModItems.BREAD_ROLL_COD);
+            event.accept(ModItems.BREAD_ROLL_COOKED_BEEF);
+            event.accept(ModItems.BREAD_ROLL_COOKED_CHICKEN);
+            event.accept(ModItems.BREAD_ROLL_COOKED_COD);
+            event.accept(ModItems.BREAD_ROLL_COOKED_MUTTON);
+            event.accept(ModItems.BREAD_ROLL_COOKED_PORKCHOP);
+            event.accept(ModItems.BREAD_ROLL_COOKED_RABBIT);
+            event.accept(ModItems.BREAD_ROLL_COOKED_SALMON);
+            event.accept(ModItems.BREAD_ROLL_COOKIE);
+            event.accept(ModItems.BREAD_ROLL_DRIED_KELP);
+            event.accept(ModItems.BREAD_ROLL_ENCHANTED_GOLDEN_APPLE);
+            event.accept(ModItems.BREAD_ROLL_GOLDEN_APPLE);
+            event.accept(ModItems.BREAD_ROLL_GOLDEN_CARROT);
+            event.accept(ModItems.BREAD_ROLL_HONEY);
+            event.accept(ModItems.BREAD_ROLL_MELON_SLICE);
+            event.accept(ModItems.BREAD_ROLL_MUTTON);
+            event.accept(ModItems.BREAD_ROLL_POISONOUS_POTATO);
+            event.accept(ModItems.BREAD_ROLL_PORKCHOP);
+            event.accept(ModItems.BREAD_ROLL_POTATO);
+            event.accept(ModItems.BREAD_ROLL_PUFFERFISH);
+            event.accept(ModItems.BREAD_ROLL_PUMPKIN_PIE);
+            event.accept(ModItems.BREAD_ROLL_RABBIT);
+            event.accept(ModItems.BREAD_ROLL_ROTTEN_FLESH);
+            event.accept(ModItems.BREAD_ROLL_SALMON);
+            event.accept(ModItems.BREAD_ROLL_SPIDER_EYE);
+            event.accept(ModItems.BREAD_ROLL_SWEET_BERRIES);
+            event.accept(ModItems.BREAD_ROLL_GLOW_BERRIES);
+            event.accept(ModItems.BREAD_ROLL_TROPICAL_FISH);
+            event.accept(ModItems.BREAD_ROLL_CARROT);
+            event.accept(ModItems.BREAD_ROLL_BEETROOT);
+            event.accept(ModItems.BREAD_ROLL_BEEF);
+            event.accept(ModItems.BREAD_ROLL_BAKED_POTATO);
+            event.accept(ModItems.BREAD_ROLL_APPLE);
+            event.accept(ModItems.BREAD_ROLL_EGGS);
+
+
         }
     }
 

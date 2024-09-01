@@ -47,5 +47,48 @@
   "item.cookingbread.grilled_sandwich_salmon": "Zapiekanka z łososiem",
   "item.cookingbread.grilled_sandwich_potato": "Zapiekanka z ziemniakiem",
 
+
+  "item.cookingbread.dough_bread_roll": "Ciasto na Bułke",
+  "item.cookingbread.bread_roll": "Bułka",
+
+  "item.cookingbread.bread_roll_chicken": "Bułka z kurczakiem",
+  "item.cookingbread.bread_roll_chorus_fruit": "Bułka z owocem refrenusu",
+  "item.cookingbread.bread_roll_cod": "Bułka z dorszem",
+  "item.cookingbread.bread_roll_cooked_beef": "Bułka z wołowiną",
+  "item.cookingbread.bread_roll_cooked_chicken": "Bułka z pieczonym kurczakiem",
+  "item.cookingbread.bread_roll_cooked_cod": "Bułka z pieczonym dorszem",
+  "item.cookingbread.bread_roll_cooked_mutton": "Bułka z pieczonym baraniną",
+  "item.cookingbread.bread_roll_cooked_porkchop": "Bułka z pieczonym schabem",
+  "item.cookingbread.bread_roll_cooked_rabbit": "Bułka z pieczonym królikiem",
+  "item.cookingbread.bread_roll_cooked_salmon": "Bułka z pieczonym łososiem",
+  "item.cookingbread.bread_roll_cookie": "Bułka z ciastkiem",
+  "item.cookingbread.bread_roll_dried_kelp": "Bułka z suszonym wodorostem",
+  "item.cookingbread.bread_roll_enchanted_golden_apple": "Bułka z zaklętym złotym jabłkiem",
+  "item.cookingbread.bread_roll_golden_apple": "Bułka ze złotym jabłkiem",
+  "item.cookingbread.bread_roll_golden_carrot": "Bułka ze złotą marchewką",
+  "item.cookingbread.bread_roll_honey": "Bułka z miodem",
+  "item.cookingbread.bread_roll_melon_slice": "Bułka z melonem",
+  "item.cookingbread.bread_roll_mutton": "Bułka z baraniną",
+  "item.cookingbread.bread_roll_poisonous_potato": "Bułka z trującym ziemniakiem",
+  "item.cookingbread.bread_roll_porkchop": "Bułka ze schabem",
+  "item.cookingbread.bread_roll_potato": "Bułka z ziemniakiem",
+  "item.cookingbread.bread_roll_pufferfish": "Bułka z rozdymką",
+  "item.cookingbread.bread_roll_pumpkin_pie": "Bułka z dyniowym ciastem",
+  "item.cookingbread.bread_roll_rabbit": "Bułka z królikiem",
+  "item.cookingbread.bread_roll_rotten_flesh": "Bułka ze zgniłym mięsem",
+  "item.cookingbread.bread_roll_salmon": "Bułka z łososiem",
+  "item.cookingbread.bread_roll_spider_eye": "Bułka z okiem pająka",
+  "item.cookingbread.bread_roll_sweet_berries": "Bułka ze słodkimi jagodami",
+  "item.cookingbread.bread_roll_glow_berries": "Bułka z świecącymi jagodami",
+  "item.cookingbread.bread_roll_tropical_fish": "Bułka z tropikalną rybą",
+  "item.cookingbread.bread_roll_carrot": "Bułka z marchewką",
+  "item.cookingbread.bread_roll_beetroot": "Bułka z burakiem",
+  "item.cookingbread.bread_roll_beef": "Bułka z wołowiną",
+  "item.cookingbread.bread_roll_baked_potato": "Bułka z pieczonym ziemniakiem",
+  "item.cookingbread.bread_roll_apple": "Bułka z jabłkiem",
+  "item.cookingbread.bread_roll_eggs": "Bułka z jajkami",
+
+
+
   "creativetab.cookingbread_tab": "Zakładka Cooking Bread"
 }

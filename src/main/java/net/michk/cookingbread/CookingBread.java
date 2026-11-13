@@ -3,6 +3,7 @@ package net.michk.cookingbread;
 import com.mojang.logging.LogUtils;
 import net.michk.cookingbread.item.ModCreativeModTabs;
 import net.michk.cookingbread.item.ModItems;
+import net.minecraft.client.renderer.entity.BoatRenderer;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;

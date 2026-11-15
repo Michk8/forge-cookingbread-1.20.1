@@ -1,6 +1,7 @@
 package net.michk.cookingbread;
 
 import com.mojang.logging.LogUtils;
+import net.michk.cookingbread.block.ModBlocks;
 import net.michk.cookingbread.item.ModCreativeModTabs;
 import net.michk.cookingbread.item.ModItems;
 import net.minecraft.client.renderer.entity.BoatRenderer;
@@ -32,6 +33,7 @@ public class CookingBread
         ModCreativeModTabs.register(modEventBus);
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 

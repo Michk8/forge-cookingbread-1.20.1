@@ -1,6 +1,7 @@
 package net.michk.cookingbread.item;
 
 import net.michk.cookingbread.CookingBread;
+import net.michk.cookingbread.block.ModBlocks;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
@@ -108,6 +109,9 @@ public class ModCreativeModTabs {
                         output.accept(ModItems.BREAD_ROLL_BAKED_POTATO.get());
                         output.accept(ModItems.BREAD_ROLL_APPLE.get());
                         output.accept(ModItems.BREAD_ROLL_EGGS.get());
+
+
+                        output.accept(ModBlocks.BREAD_OVEN.get());
 
 
                     })
